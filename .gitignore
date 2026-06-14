@@ -1,0 +1,7 @@
+dashboard
+
+lvgl/
+
+*.o
+v_conf.h
+EOF
